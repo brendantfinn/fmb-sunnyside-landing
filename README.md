@@ -1,6 +1,6 @@
 # Sunnyside Agency landing page
 
-This is a solution to the [Sunnyside Agency landing page](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
+This is a solution to the [Sunnyside Agency landing page](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). 
 
 ![Design preview for the Three Column Preview Card ](./design/desktop-preview.jpg)
 
